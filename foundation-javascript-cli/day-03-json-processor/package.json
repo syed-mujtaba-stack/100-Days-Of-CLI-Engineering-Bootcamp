@@ -1,0 +1,24 @@
+{
+  "name": "json-processor-cli",
+  "version": "1.0.0",
+  "description": "Day 3 - JSON Processor CLI for data parsing and manipulation",
+  "main": "index.js",
+  "bin": {
+    "jsonproc": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No automated tests yet\""
+  },
+  "keywords": [
+    "cli",
+    "json",
+    "parser",
+    "node"
+  ],
+  "author": "CLI Engineering Bootcamp",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
