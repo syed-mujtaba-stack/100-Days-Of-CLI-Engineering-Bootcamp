@@ -1,0 +1,24 @@
+{
+  "name": "file-reader-cli",
+  "version": "1.0.0",
+  "description": "Day 2 - File Reader CLI: Inspect and display file contents from the terminal",
+  "main": "index.js",
+  "bin": {
+    "filereader": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No automated tests for this day\""
+  },
+  "keywords": [
+    "cli",
+    "file",
+    "reader",
+    "nodejs"
+  ],
+  "author": "CLI Engineering Bootcamp",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

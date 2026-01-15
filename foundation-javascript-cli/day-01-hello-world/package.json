@@ -1,0 +1,24 @@
+{
+  "name": "hello-world-cli",
+  "version": "1.0.0",
+  "description": "Basic CLI setup and output - Day 1 of CLI Engineering Bootcamp",
+  "main": "index.js",
+  "bin": {
+    "hello": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "hello-world",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "CLI Engineering Bootcamp",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
