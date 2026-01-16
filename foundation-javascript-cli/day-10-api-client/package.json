@@ -1,0 +1,19 @@
+{
+    "name": "day-10-api-client",
+    "version": "1.0.0",
+    "description": "Day 10 - Command-Line API Client using native fetch",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "cli",
+        "api",
+        "fetch",
+        "http",
+        "rest"
+    ],
+    "author": "",
+    "license": "ISC"
+}

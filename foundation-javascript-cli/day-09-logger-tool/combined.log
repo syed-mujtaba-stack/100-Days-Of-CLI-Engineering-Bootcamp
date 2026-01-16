@@ -1,0 +1,24 @@
+Bootcamp: [2026-01-16T02:34:58.986Z] [DEBUG] Initializing the application components...
+Bootcamp: [2026-01-16T02:34:59.065Z] [INFO ] System operational and ready for input.
+Bootcamp: [2026-01-16T02:34:59.070Z] [WARN ] Disk usage over 80% on primary partition.
+Bootcamp: [2026-01-16T02:34:59.075Z] [ERROR] Failed to establish connection to database: Access Denied.
+Bootcamp: [2026-01-16T02:34:59.084Z] [INFO ] {
+  "event": "user_login",
+  "userId": 12345,
+  "status": "success",
+  "timestamp": 1768530899083
+}
+Bootcamp: [2026-01-16T02:34:59.095Z] [WARN ] This warning WILL be shown.
+Bootcamp: [2026-01-16T02:34:59.100Z] [ERROR] This error WILL be shown.
+Bootcamp: [2026-01-16T02:36:20.664Z] [DEBUG] Initializing the application components...
+Bootcamp: [2026-01-16T02:36:20.678Z] [INFO ] System operational and ready for input.
+Bootcamp: [2026-01-16T02:36:20.679Z] [WARN ] Disk usage over 80% on primary partition.
+Bootcamp: [2026-01-16T02:36:20.682Z] [ERROR] Failed to establish connection to database: Access Denied.
+Bootcamp: [2026-01-16T02:36:20.685Z] [INFO ] {
+  "event": "user_login",
+  "userId": 12345,
+  "status": "success",
+  "timestamp": 1768530980685
+}
+Bootcamp: [2026-01-16T02:36:20.690Z] [WARN ] This warning WILL be shown.
+Bootcamp: [2026-01-16T02:36:20.691Z] [ERROR] This error WILL be shown.

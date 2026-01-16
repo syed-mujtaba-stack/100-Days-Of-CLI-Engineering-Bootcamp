@@ -1,0 +1,11 @@
+{
+  "name": "day-05-argument-parser",
+  "version": "1.0.0",
+  "description": "Day 5 - Command-Line Argument Handling",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

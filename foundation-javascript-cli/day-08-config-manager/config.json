@@ -1,0 +1,10 @@
+{
+  "theme": "dark",
+  "language": "en",
+  "notifications": true,
+  "user": {
+    "name": "Guest",
+    "role": "developer"
+  },
+  "lastLogin": null
+}

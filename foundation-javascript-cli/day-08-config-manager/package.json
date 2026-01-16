@@ -1,0 +1,18 @@
+{
+    "name": "day-08-config-manager",
+    "version": "1.0.0",
+    "description": "Day 8 - Configuration File Handling (JSON)",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "cli",
+        "config",
+        "json",
+        "persistence",
+        "settings"
+    ],
+    "author": "",
+    "license": "ISC"
+}
